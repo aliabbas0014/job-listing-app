@@ -18,7 +18,7 @@ function Home() {
           {/* Background Image */}
           <div className="h-full w-full">
             <img
-              src="/images/1.jpg"
+              src="/job-listing-app/images/1.jpg"
               className="h-full w-full object-cover"
               alt="Job Search"
             />
@@ -49,7 +49,7 @@ function Home() {
               {/* Card 1 */}
               <div className="bg-gradient-to-b from-blue-200 to-blue-700 shadow-xl rounded-lg p-6 flex flex-col items-center transition-transform transform hover:scale-105 duration-500 ">
                 <div className="flex justify-center">
-                  <img src="/images/2.png" alt="Software Development" className="w-[60px] object-cover" />
+                  <img src="/job-listing-app/images/2.png" alt="Software Development" className="w-[60px] object-cover" />
                 </div>
                 <h3 className="text-xl font-bold mt-4 text-white">Software Development</h3>
                 <p className="mt-2 text-white text-center ">
@@ -59,7 +59,7 @@ function Home() {
               {/* Card 2 */}
               <div className="bg-gray-100 shadow-xl rounded-lg p-6 flex flex-col items-center transition-transform transform hover:scale-105 duration-500">
                 <div className="flex justify-center">
-                  <img src="/images/3.png" alt="Digital Marketing" className="w-[60px] object-cover" />
+                  <img src="/job-listing-app/images/3.png" alt="Digital Marketing" className="w-[60px] object-cover" />
                 </div>
                 <h3 className="text-xl font-bold mt-4">Digital Marketing</h3>
                 <p className="mt-2 text-gray-600">
@@ -69,7 +69,7 @@ function Home() {
               {/* Card 3 */}
               <div className="bg-gradient-to-b from-blue-200 to-blue-700 shadow-xl rounded-lg p-6 flex flex-col items-center transition-transform transform hover:scale-105 duration-500">
                 <div className="flex justify-center">
-                  <img src="/images/4.png" alt="Data Science" className="w-[60px] object-cover" />
+                  <img src="/job-listing-app/images/4.png" alt="Data Science" className="w-[60px] object-cover" />
                 </div>
                 <h3 className="text-xl font-bold mt-4 text-white">Data Science</h3>
                 <p className="mt-2 text-white">
@@ -88,7 +88,7 @@ function Home() {
               {/* Card 1 */}
               <div className="bg-white shadow-xl rounded-lg p-6 flex flex-col items-center transition-transform transform hover:scale-105 duration-500">
                 <div className="flex justify-center">
-                  <img src="/images/5.png" alt="Job Listing" className="w-[70px] object-cover" />
+                  <img src="/job-listing-app/images/5.png" alt="Job Listing" className="w-[70px] object-cover" />
                 </div>
                 <h3 className="text-xl font-bold mt-4">Frontend Developer</h3>
                 <p className="mt-2 text-gray-600">
@@ -101,7 +101,7 @@ function Home() {
               {/* Card 2 */}
               <div className="bg-white shadow-xl rounded-lg p-6 flex flex-col items-center transition-transform transform hover:scale-105 duration-500">
                 <div className="flex justify-center">
-                  <img src="/images/5.png" alt="Job Listing" className="w-[70px] object-cover" />
+                  <img src="/job-listing-app/images/5.png" alt="Job Listing" className="w-[70px] object-cover" />
                 </div>
                 <h3 className="text-xl font-bold mt-4">Backend Developer</h3>
                 <p className="mt-2 text-gray-600">
@@ -114,7 +114,7 @@ function Home() {
               {/* Card 3 */}
               <div className="bg-white shadow-xl rounded-lg p-6 flex flex-col items-center transition-transform transform hover:scale-105 duration-500">
                 <div className="flex justify-center">
-                  <img src="/images/5.png" alt="Job Listing" className="w-[70px] object-cover" />        </div>      <h3 className="text-xl font-bold mt-4">Full Stack Developer</h3>    <p className="mt-2 text-gray-600">        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, non perferendis odit modi iste pariatur ducimus cumque repellat. Ex, veritatis.      </p>      <button className="mt-4 px-3 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-sm">        Apply Now      </button>
+                  <img src="/job-listing-app/images/5.png" alt="Job Listing" className="w-[70px] object-cover" />        </div>      <h3 className="text-xl font-bold mt-4">Full Stack Developer</h3>    <p className="mt-2 text-gray-600">        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, non perferendis odit modi iste pariatur ducimus cumque repellat. Ex, veritatis.      </p>      <button className="mt-4 px-3 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-sm">        Apply Now      </button>
               </div>
             </div>
 
@@ -123,7 +123,7 @@ function Home() {
               {/* Card 4 */}
               <div className="bg-white shadow-xl rounded-lg p-6 flex flex-col items-center transition-transform transform hover:scale-105 duration-500">
                 <div className="flex justify-center">
-                  <img src="/images/5.png" alt="Job Listing" className="w-[70px] object-cover" />
+                  <img src="/job-listing-app/images/5.png" alt="Job Listing" className="w-[70px] object-cover" />
                 </div>
                 <h3 className="text-xl font-bold mt-4">Graphic Designer</h3>
                 <p className="mt-2 text-gray-600">
@@ -136,7 +136,7 @@ function Home() {
               {/* Card 5 */}
               <div className="bg-white shadow-xl rounded-lg p-6 flex flex-col items-center transition-transform transform hover:scale-105 duration-500">
                 <div className="flex justify-center">
-                  <img src="/images/5.png" alt="Job Listing" className="w-[70px] object-cover" />
+                  <img src="/job-listing-app/images/5.png" alt="Job Listing" className="w-[70px] object-cover" />
                 </div>
                 <h3 className="text-xl font-bold mt-4">Digital Marketing</h3>
                 <p className="mt-2 text-gray-600">
@@ -149,7 +149,7 @@ function Home() {
               {/* Card 6 */}
               <div className="bg-white shadow-xl rounded-lg p-6 flex flex-col items-center transition-transform transform hover:scale-105 duration-500">
                 <div className="flex justify-center">
-                  <img src="/images/5.png" alt="Job Listing" className="w-[70px] object-cover" />        </div>      <h3 className="text-xl font-bold mt-4">Video Editor</h3>    <p className="mt-2 text-gray-600">        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, non perferendis odit modi iste pariatur ducimus cumque repellat. Ex, veritatis.      </p>      <button className="mt-4 px-3 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-sm">        Apply Now      </button>
+                  <img src="/job-listing-app/images/5.png" alt="Job Listing" className="w-[70px] object-cover" />        </div>      <h3 className="text-xl font-bold mt-4">Video Editor</h3>    <p className="mt-2 text-gray-600">        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, non perferendis odit modi iste pariatur ducimus cumque repellat. Ex, veritatis.      </p>      <button className="mt-4 px-3 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-sm">        Apply Now      </button>
               </div>
             </div>
           </div>
